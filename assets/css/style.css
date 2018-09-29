@@ -153,7 +153,8 @@ h3, h2 {
 }
 
 .work img {
-  width: 100%;
+  width: 270px;
+  height: 250px;
   border: 0 none;
   opacity: 0.8;
   
